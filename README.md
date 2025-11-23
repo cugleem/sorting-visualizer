@@ -20,6 +20,7 @@
 
 `npm install`
 
+安装完成后项目目录下会出现node_modules文件夹
 
 
 # 第三步：运行项目
