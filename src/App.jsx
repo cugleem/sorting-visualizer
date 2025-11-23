@@ -450,7 +450,7 @@ export default function App() {
                 <Activity size={20} className="text-white" />
               </div>
               <h1 className="text-xl font-bold bg-gradient-to-r from-indigo-400 to-cyan-400 bg-clip-text text-transparent hidden sm:block">
-                AlgoVisualizer
+                SortingVisualizer
               </h1>
             </div>
             
